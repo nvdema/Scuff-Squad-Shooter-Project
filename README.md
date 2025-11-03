@@ -1,4 +1,4 @@
-# Fighter-Planes-Da-Fellas
+# Fighter-Planes-Scuff-Squad
 Fighter Planes Coding Assignment
 
 Changes Made:
